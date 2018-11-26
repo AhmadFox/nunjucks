@@ -102,7 +102,7 @@ gulp.task('connect', function() {
 // -- watch function --
 // for reload browser and only bulid for changed files
 gulp.task('watch', function () {
-	gulp.watch('views/*.html', ['html']);
+	gulp.watch('app/views/**/*.html', ['nunjucks']);
 	gulp.watch('app/js/**/*.js', ['js']);
 	gulp.watch('app/image/*', ['image']);
 	gulp.watch('app/sass/**/*.scss', ['sass']);
