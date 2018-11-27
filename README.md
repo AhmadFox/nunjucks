@@ -1,13 +1,10 @@
 # Nunjucks Mozilla
-JavaScript Template Engine For FrontEnd Static Project From Mozilla.org
-
-![](./app⁩/⁨image⁩/nunjucks.png)
-<h3>Read Documentation: <a href="https://ahmadfox.github.io/nunjucks/" target="_blank">Ckick Here</a></h3>
-
-<h1>Gulp Task Runner</h1>
 <h3> JavaScript Template Engine For FrontEnd Static Project From Mozilla.org <b>By AHMAD GHARAIBEH</b></h3>
 
 ----------------------------------
+
+![](app⁩/⁨image⁩/nunjucks.png)
+
 <h3>Project Initialize</h3>
 
 1- start to install node moduls
@@ -38,14 +35,12 @@ JavaScript Template Engine For FrontEnd Static Project From Mozilla.org
 <br>
 <code>$ npm install --save-dev gulp-minify</code>
 <br>
-<br>
 <code>$ npm install --save-dev gulp-connect</code>
-<br>
 <br>
 <code>$ npm install --save-dev gulp-nunjucks-render</code>
 <br>
 
-<h3>Commands Shell</h3>
+<h3>Commands Shell Run Tasks</h3>
 <b>build for one time:<code>$gulp</code></b>
 <br>
 <b>run gulp watch:<code>$gulp run</code></b>
@@ -55,5 +50,6 @@ JavaScript Template Engine For FrontEnd Static Project From Mozilla.org
 
 <h3>Resources</h3>
 <b>Read Nunjucks <a href="https://mozilla.github.io/nunjucks/" target="_blank">documentation</a></b>
+<br>
 <b>Read Gulp js <a href="https://github.com/gulpjs/gulp/blob/v3.9.1/docs/API.md" target="_blank">documentation</a></b>
 
